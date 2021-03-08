@@ -16,12 +16,6 @@
             "tethered": false,
             "underlying_address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
 
-        },
-        {
-            "name": "USDT",
-            "decimals": 6,
-            "tethered": false,
-            "underlying_address": "0x1B27A9dE6a775F98aaA5B90B62a4e2A0B84DbDd9"
         }
     ]
 }
